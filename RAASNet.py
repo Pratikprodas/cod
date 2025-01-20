@@ -45,7 +45,7 @@ __email__ = "None"
 __status__ = "Production"
 
 import os, sys, subprocess, threading, time, datetime, socket, select, webbrowser, base64, platform, base64, requests, hashlib
-from geoip import geolite2
+from geoip2 import geolite2
 from tkinter import *
 from tkinter.ttk import *
 from tkinter import messagebox
